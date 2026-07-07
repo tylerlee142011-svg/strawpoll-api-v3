@@ -1,7 +1,7 @@
 import requests
 
 ENDPOINT = "https://api.strawpoll.com/v3"
-API_KEY = "YOUR_API_KEY"
+API_KEY = "1HmXYDxPnEHFMHAzSSeClOe08N7b4xZqGSQuQtBSEpSV4vjgisCVta1MMk3n" 
 
 payload = {
 	"title": "Is this a good Python example?",
